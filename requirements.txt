@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchmemy[asyncio]
+asyncpg
+ablembic
+python-dotenv
+
+pytest
+httpx
+aiosqlite
+pytest-asyncio
