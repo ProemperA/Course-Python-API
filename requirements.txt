@@ -2,7 +2,7 @@ fastapi
 uvicorn
 sqlalchmemy[asyncio]
 asyncpg
-ablembic
+alembic
 python-dotenv
 
 pytest
